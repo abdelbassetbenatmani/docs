@@ -43,12 +43,11 @@
     {
       "group": "Manipulate your agent",
       "pages": [
-        "Bots",
-        "Doc groups",
-        "Conversation history",
-        "Docs",
-        "Tokens",
-        "Questions"
+        "bots",
+        "doc-groups",
+        "docs",
+        "tokens",
+        "questions"
       ]
     },
     {
