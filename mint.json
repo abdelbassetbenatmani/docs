@@ -41,6 +41,17 @@
       ]
     },
     {
+      "group": "Manipulate your agent",
+      "pages": [
+        "Bots",
+        "Doc groups",
+        "Conversation history",
+        "Docs",
+        "Tokens",
+        "Questions"
+      ]
+    },
+    {
       "group": "API Documentation",
       "pages": [
         "api-reference/introduction"
