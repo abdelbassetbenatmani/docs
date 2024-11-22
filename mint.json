@@ -44,8 +44,9 @@
       "pages": [
         "bots",
         "doc-groups",
-        "history",
         "docs",
+        "accounts",
+        "history",
         "tokens",
         "questions"
       ]
