@@ -36,8 +36,7 @@
       "group": "Get Started",
       "pages": [
         "introduction",
-        "quickstart",
-        "development"
+        "quickstart"
       ]
     },
     {
@@ -45,6 +44,7 @@
       "pages": [
         "bots",
         "doc-groups",
+        "history",
         "docs",
         "tokens",
         "questions"
