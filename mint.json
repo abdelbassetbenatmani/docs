@@ -42,6 +42,7 @@
     {
       "group": "Manipulate your agent",
       "pages": [
+        "chat",
         "bots",
         "doc-groups",
         "docs",
